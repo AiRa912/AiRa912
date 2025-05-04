@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @AiRa912
-- 👀 I’m interested in Data and Tech Analyst roles in Heathcare and AI industry.
-- 🌱 I’m currently learning AI, ML and Python programing.
-- 💞️ I’m looking to collaborate on ML and AI in heathtech space.
-- 📫 How to reach me with email at aishraman09@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I speak 4 languages and I am learning a 5th.
+👩‍💻 Data Analyst @ Talking Medicines | Mentor @ INSA Scotland
 
-<!---
-AiRa912/AiRa912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Passionate about data analysis, healthtech analytics & turning raw data into actionable insights
+
+💻 Working with Python, SQL, Azure Databricks, and building scalable data pipelines
+
+📊 MSc in Mathematics – with research in mathematical modelling for cancer drug delivery
+
+📚 Certified in Python, SQL & Data Analysis (Microsoft x LinkedIn)
+
+🌱 Currently exploring AI/ML in healthcare — always learning, always building
+
+🌍 I speak 4 languages and am learning a 5th (language and programming!)
+
+🔗 Let’s connect: LinkedIn | 📫 aishraman09@gmail.com
+
+💡 Fun fact: I once boosted scanner adoption by 15%... and I’m just getting started.
