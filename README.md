@@ -1,4 +1,4 @@
-👩‍💻 Data Analyst @ Talking Medicines | Mentor @ INSA Scotland
+👩‍💻 Data Tech Analyst | Formerly Talking Medicines | Scotland Lead and Mentor @ INSA 
 
 🔍 Passionate about data analysis, healthtech analytics & turning raw data into actionable insights
 
@@ -6,9 +6,9 @@
 
 📊 MSc in Mathematics – with research in mathematical modelling for cancer drug delivery
 
-📚 Certified in Python, SQL & Data Analysis (Microsoft x LinkedIn)
+📚 Certified in Github Actions, Python, SQL & Data Analysis (Microsoft x LinkedIn)
 
-🌱 Currently exploring AI/ML in healthcare — always learning, always building
+🌱 Currently exploring AI/ML — always learning, always building
 
 🌍 I speak 4 languages and am learning a 5th (language and programming!)
 
